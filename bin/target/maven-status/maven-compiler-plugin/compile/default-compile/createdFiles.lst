@@ -1,0 +1,4 @@
+com\healthcare\DAO.class
+com\healthcare\RequestTest.class
+com\healthrequest\JakartaRestConfiguration.class
+com\healthrequest\resources\JakartaEE10Resource.class
